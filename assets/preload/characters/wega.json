@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				300,
+				500
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "WEGA left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				300,
+				500
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "WEGA down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				300,
+				500
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "WEGA right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				300,
+				500
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "WEGA up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				300,
+				500
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "WEGA idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/WEGA",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "icon-wega",
+	"flip_x": false,
+	"healthbar_colors": [
+		77,
+		77,
+		165
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 0.5
+}

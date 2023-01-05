@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				450,
+				525
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "CUM.EXE Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				450,
+				525
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "CUM.EXE Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				450,
+				525
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "CUM.EXE Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				450,
+				525
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "CUM.EXE Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				450,
+				525
+			],
+			"anim": "idle",
+			"fps": 12,
+			"name": "CUM.EXE idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/CUM.EXE",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "icon-cumexe",
+	"flip_x": false,
+	"healthbar_colors": [
+		21,
+		3,
+		85
+	],
+	"camera_position": [
+		50,
+		50
+	],
+	"sing_duration": 6.1,
+	"scale": 0.499999999999999
+}

@@ -1,0 +1,144 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				450,
+				525
+			],
+			"anim": "idle",
+			"fps": 12,
+			"name": "GloriaChristmas idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				450,
+				525
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "GloriaChristmas down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				450,
+				525
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "GloriaChristmas up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				450,
+				525
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "GloriaChristmas missD",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				450,
+				425
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "GloriaChristmas missU",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				450,
+				425
+			],
+			"anim": "retry?",
+			"fps": 12,
+			"name": "GloriaChristmas retry?",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				450,
+				525
+			],
+			"anim": "death",
+			"fps": 12,
+			"name": "GloriaChristmas death",
+			"indices": []
+		},
+		{
+			"offsets": [
+				450,
+				525
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "GloriaChristmas right"
+		},
+		{
+			"offsets": [
+				450,
+				525
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "GloriaChristmas left"
+		},
+		{
+			"offsets": [
+				450,
+				525
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "singLEFTmiss",
+			"loop": false,
+			"name": "GloriaChristmas missR"
+		},
+		{
+			"offsets": [
+				450,
+				525
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "GloriaChristmas missL"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/GloriaChristmas",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "gloria_xmas_icons",
+	"flip_x": false,
+	"healthbar_colors": [
+		8,
+		9,
+		10
+	],
+	"camera_position": [
+		50,
+		50
+	],
+	"sing_duration": 6.1,
+	"scale": 0.499999999999999
+}
